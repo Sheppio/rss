@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Podcast Title</title>
+        <link>http://www.podcastwebsite.com</link>
+        <language>en-us</language>
+        <subtitle>A show about everything</subtitle>
+        <author>John Doe</author>
+        <summary>This is a podcast about various topics.</summary>
+        <description>This is a podcast about various topics.</description>
+        <item>
+            <title>Episode 1: The Beginning</title>
+            <author>John Doe</author>
+            <subtitle>A look into the start of it all</subtitle>
+            <summary>In this episode, we explore the beginning of everything.</summary>
+            <enclosure url="http://www.podcastwebsite.com/podcast/episode1.mp3" length="123456789" type="audio/mpeg"/>
+            <guid>http://www.podcastwebsite.com/podcast/episode1</guid>
+            <pubDate>Wed, 15 Jun 2024 19:00:00 GMT</pubDate>
+            <duration>45:33</duration>
+        </item>
+        <!-- More items can be added here -->
+    </channel>
+</rss>
